@@ -1,0 +1,102 @@
+body{
+	background-color: #0C090A;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+#title{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 120px;
+	color: #C11B17;
+	text-align: center;
+	margin-top: 100px;
+}
+#childhood{
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 35px;
+	color: white;
+	position: absolute;
+	margin-left:20.5%;
+	margin-top: -15px;
+}
+#obese{
+	background-color: orange;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 100px;
+}
+#million{
+	background-color: #1E90FF;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+#conditions{
+	background-color: #C11B17;
+	width: 1000px;
+	height: 400px;
+	position: absolute;
+	margin-top: 700px;
+}
+#risk{
+	background-color: #1E90FF;
+	width: 1000px;
+	height: 500px;
+	position: relative;
+	margin-top: 1200px;
+}
+#fries{
+	background-color: #C11B17;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 100px;
+}
+#juice{
+	background-color: orange;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+#toddlers{
+	background-color: #1E90FF;
+	width: 1000px;
+	height: 300px;
+	position: absolute;
+	margin-top: 700px;
+}
+#nearly{
+	background-color: orange;
+	width: 1000px;
+	height: 300px;
+	position: absolute;
+	margin-top: 1100px;
+}
+#billion{
+	background-color: #1E90FF;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 1500px;
+}
+#children{
+	background-color: #C11B17;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: 1500px;
+	margin-left: 500px;
+}
+#footer{
+	background-color: #0C090A;
+	width: 1000px;
+	height: 300px;
+	position: absolute;
+	margin-top: 2000px;
+}
